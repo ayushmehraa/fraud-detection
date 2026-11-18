@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Dataset files
+data/
+
+# Trained models
+models/
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
