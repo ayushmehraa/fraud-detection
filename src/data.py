@@ -2,7 +2,7 @@
 import pandas as pd
 
 
-def load_data(path="data\raw\creditcard.csv")-> pd.DataFrame:
+def load_data(path: str = 'data/raw/creditcard.csv')-> pd.DataFrame:
     """
     Load data from a given file path.
 
